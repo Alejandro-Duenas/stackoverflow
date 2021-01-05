@@ -38,3 +38,6 @@ The main findings of the code can be found at the post available [here](https://
 
 Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
 
+
+#### *This was slightly modified by ADG*
+This is a copy of the original stackoverflow remote repo in GitHub that was changed as part of the practical exercises done for the Udacity's Data Science NanoDegree!
